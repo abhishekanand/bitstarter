@@ -1,4 +1,5 @@
 var express = require('express');
+var js = require('fs'); //ReferenceError: fs is not defined
 
 var app = express.createServer(express.logger());
 
