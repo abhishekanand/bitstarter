@@ -7,7 +7,7 @@ app.get('/', function(request, response) {
    //    response.send('Hello World3!');
    
    var indexhtml = fs.readFileSync('index.html');
-   var body = indexhtml
+   var body = indexhtml;
    response.send(body);
 });
 
