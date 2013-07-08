@@ -4,5 +4,5 @@ bitstarter
 Bitstarter
 
 
-Output of This Projct  : 
+Output of This Project  : 
 http://afternoon-tundra-1148.herokuapp.com/
