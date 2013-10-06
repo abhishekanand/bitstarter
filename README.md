@@ -1,8 +1,16 @@
-bitstarter
-==========
+STARTUP ENGINEERING 
+===================
 
-Bitstarter
+ABOUT THE COURSE : 
+- 
+INSTRUCTOR(S) : Balaji S. Srinivasan & Vijay S. Pande
+Source: Coursera (Stanford University) 
 
-
-Output of This Project  : 
-http://afternoon-tundra-1148.herokuapp.com/
+Course topic: Engineering & Computer Science 
+Session: Jun 17th 2013 (12 weeks long) 
+- 
+URL : https://class.coursera.org/startup-001/class 
+      http://online.stanford.edu/course/startup-engineering 
+- 
+Heroku : http://aanand-bitstarter-mooc.herokuapp.com/ 
+Github : https://github.com/aanandmailbox/bitstarter
